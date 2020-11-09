@@ -8,4 +8,4 @@ Developed the website's frontend using HTML, CSS, and Javascript.
 
 Website contains information gathered and analyzed from databases provided by NASA, CSA, and JAXA.
 
-# Educate yourselves about climate change and the sustainability of our planet!
+# Educate yourselves about the sustainability of our planet!
