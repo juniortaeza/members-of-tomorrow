@@ -6,4 +6,6 @@ Incorporated Firebase for the backend and deployment of the website for public a
 
 Developed the website's frontend using HTML, CSS, and Javascript.
 
+Website contains information gathered and analyzed from databases provided by NASA, CSA, and JAXA.
+
 # Educate yourselves about climate change and the sustainability of our planet!
