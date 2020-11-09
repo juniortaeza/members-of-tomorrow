@@ -6,4 +6,4 @@ Incorporated Firebase for the backend and deployment of the website for public a
 
 Developed the website's frontend using HTML, CSS, and Javascript.
 
-# This is meant to show beginner web developers the content needed in order to publish a website. 
+# Educate yourselves about climate change and the sustainability of our planet!
