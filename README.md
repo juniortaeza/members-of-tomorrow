@@ -1,6 +1,6 @@
 # Members of Tomorrow
 
-The complete layout, structure, and design of our website https://membersoftomorrow.us/
+The complete layout, structure, and design of the website https://membersoftomorrow.us/
 
 Incorporated Firebase for the backend and deployment of the website for public access.
 
